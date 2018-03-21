@@ -1,21 +1,21 @@
 {
-    "name": "glissmedia/breadcrumbs",
-    "description": "Package Breadcrumbs for Laravel 5.4",
+    "name": "StopTheFakes/breadcrumbs-master",
+    "description": "Package Breadcrumbs for Laravel 5.4 or higher",
     "keywords": ["laravel", "breadcrumbs"],
     "license": "MIT",
-    "homepage": "https://github.com/glissmedia/breadcrumbs",
+    "homepage": "https://github.com/StopTheFakes/breadcrumbs-master",
     "authors": [
         {
-            "name": "GlissmediaTeam",
-            "email": "support@glissmedia.ru",
-            "homepage": "http://glissmedia.ru"
+            "name": "StopTheFakes",
+            "email": "support@StopTheFakes.io",
+            "homepage": "https://StopTheFakes.io"
         }
     ],
     "autoload": {
         "classmap": [],
         "files": [],
         "psr-4": {
-            "Glissmedia\\Breadcrumbs\\": "src/Breadcrumbs"
+            "StopTheFakes\\Breadcrumbs\\": "src/Breadcrumbs"
         }
     },
     "extra": {

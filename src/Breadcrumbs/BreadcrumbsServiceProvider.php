@@ -1,6 +1,6 @@
 <?php
 
-namespace Glissmedia\Breadcrumbs;
+namespace StopTheFakes\Breadcrumbs;
 
 use Illuminate\Support\ServiceProvider;
 

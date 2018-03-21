@@ -1,4 +1,4 @@
-<?php namespace Glissmedia\Breadcrumbs;
+<?php namespace StopTheFakes\Breadcrumbs;
 
 use Illuminate\Support\Facades\Facade;
 

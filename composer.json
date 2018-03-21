@@ -3,12 +3,12 @@
     "description": "Package Breadcrumbs for Laravel 5.4",
     "keywords": ["laravel", "breadcrumbs"],
     "license": "MIT",
-    "homepage": "https://github.com/glissmedia/breadcrumbs",
+    "homepage": "https://github.com/StopTheFakes/breadcrumbs-master",
     "authors": [
         {
-            "name": "GlissmediaTeam",
-            "email": "support@glissmedia.ru",
-            "homepage": "http://glissmedia.ru"
+            "name": "StopTheFakes",
+            "email": "info@StopTheFakes.io",
+            "homepage": "http://alpha.stopthefakes.co"
         }
     ],
     "autoload": {
